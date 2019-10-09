@@ -1,0 +1,11 @@
+{
+  "name": "alejandro-hernandez-website",
+  "version": "1.0.0",
+  "description": "Fullstack JS Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Exequiel Hernández Lara",
+  "license": "ISC"
+}
