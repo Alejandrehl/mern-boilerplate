@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://blackhood-mernlandingbase:Yearofsummer1395.@mern-landing-base-24ix0.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://rocket-mongo-admin:rocket-mongo-admin-pass-123@rocket-codes-cluster-3ja1y.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
