@@ -5,14 +5,11 @@
 3. yarn install in client folder
 4. yarn run dev to run projects concurrently
 
-   - Very easy deploy to Heroku.
-
 ## Content
 
 - User Model
 - Routes to Auth and Register
 - Configuration to run the full stack project
-  - yarn run dev
 - Server Port: 5000
 - Client Port: 3000
 
