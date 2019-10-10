@@ -1,6 +1,11 @@
-# Fullstack JS Website
+# Mern Stack Boilerplate
 
-This project is a MERN Stack Boilerplate
+1. Clone Repo
+2. yarn install in root folder
+3. yarn install in client folder
+4. yarn run dev to run projects concurrently
+
+   - Very easy deploy to Heroku.
 
 ## Content
 
