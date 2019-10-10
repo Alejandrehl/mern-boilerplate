@@ -23,5 +23,3 @@
 6. yarn add config
 7. yarn add express-validator
 8. yarn add mongoose
-
-# Client Dependencies
