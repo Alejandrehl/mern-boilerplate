@@ -1,5 +1,16 @@
 # Fullstack JS Website
 
+This project is a MERN Stack Boilerplate
+
+## Content
+
+- User Model
+- Routes to Auth and Register
+- Configuration to run the full stack project
+  - yarn run dev
+- Server Port: 5000
+- Client Port: 3000
+
 ## Server Dependencies
 
 1. yarn add express
@@ -10,3 +21,5 @@
 6. yarn add config
 7. yarn add express-validator
 8. yarn add mongoose
+
+# Client Dependencies
